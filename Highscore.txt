@@ -1,0 +1,16 @@
+a — 12000
+Jamal — 400
+Alexander — 4000
+b — 750
+c — 500
+d — 750
+Lyti — 500
+oskar — 2000
+Ange ett namn! — 2382
+edvard — 5456
+Amin — 2000
+Fredrik — 2000
+Namnet finns redan! — 668
+asd — 572
+alexander — 1000
+Oscar — 2000
